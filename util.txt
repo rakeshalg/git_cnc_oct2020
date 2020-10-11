@@ -1,1 +1,1 @@
-utility version 2.5.1
+utility version 2.5.1 for cnc commands
